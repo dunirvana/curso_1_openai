@@ -26,4 +26,11 @@ Esta aplicação utiliza a API da OpenAI para fornecer funcionalidades de inteli
   python main.py
   ```
 
+5. **Configurar o ambiente virtual**
+  - Crie um ambiente dedicado:
+  ```bash
+  python3 -m venv curso_1_openai
+  source curso_1_openai/bin/activate
+  ```
+
 Pronto! A aplicação estará rodando e pronta para uso.
